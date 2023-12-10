@@ -20,7 +20,7 @@ This educational project was developed as part of a Frontend Development course 
 To experience a demonstration of the project, you can visit the provided demo [DEMO LINK](https://IhorVerba.github.io/2048-game-new/)
 
 ## Contact
-Ihor Verbivskyi - @IhorVerbivskyi - ihor.verbivskyi@gmail.com
+Ihor Verbivskyi - https://t.me/IhorVerbivskyi - ihor.verbivskyi@gmail.com
 
 Project Link: https://github.com/IhorVerba/2048-game-new
 
